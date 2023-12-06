@@ -1,0 +1,10 @@
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\bin\Debug\SecondApp.exe.config
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\bin\Debug\SecondApp.exe
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\bin\Debug\SecondApp.pdb
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\obj\Debug\SecondApp.csproj.AssemblyReference.cache
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\obj\Debug\SecondApp.Form1.resources
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\obj\Debug\SecondApp.Properties.Resources.resources
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\obj\Debug\SecondApp.csproj.GenerateResource.cache
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\obj\Debug\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\obj\Debug\SecondApp.exe
+C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\SecondApp\obj\Debug\SecondApp.pdb
