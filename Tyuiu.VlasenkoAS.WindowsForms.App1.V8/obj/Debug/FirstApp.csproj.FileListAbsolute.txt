@@ -18,3 +18,14 @@ C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForm
 C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
 C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.exe
 C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.pdb
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\bin\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.exe.config
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\bin\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.exe
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\bin\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.pdb
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.Form1.resources
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.Properties.Resources.resources
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\FirstApp.csproj.GenerateResource.cache
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.exe
+C:\Users\andre\Documents\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App1.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App1.V8.pdb
