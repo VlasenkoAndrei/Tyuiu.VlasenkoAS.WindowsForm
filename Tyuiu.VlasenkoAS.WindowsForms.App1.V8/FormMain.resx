@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="radioButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="radioButtonFirstExpression.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAKoAAABGCAIAAADTkpgsAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wAAADsABataJCQAABCdJREFUeF7tnOF5qjAUhruCM7hCd3AEZ+gK3cAN2KATOEEXcAE3cIfet3y5eRAE
+        vQAADr0BR/uQrQAABCdJREFUeF7tnOF5qjAUhruCM7hCd3AEZ+gK3cAN2KATOEEXcAE3cIfet3y5eRAE
         xAoI53t/9IYkjcB7khzw6X37MYGx/tBYf2isPzTWHxrrD431h8b6Q2P9obH+0Fj/dJxOp+12u9lszuez
         at5KLpeLDqfH+qfj4+MD8eg/HA6qobDb7VSeBeufGoIgK6f8/f2t8ixY/9RYf2iKomD9p8BGgH5VzoX1
         Tw0JoNI93M+Y9AnrnwH07/f74/GYjufD+meAvX/2ZV9Y/9Sw+KN/9mVfvKL+r68vlsd5H4hHgjz/ddzD
@@ -142,10 +142,10 @@
         +goDJ5AAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="radioButton2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="radioButtonSecondExpression.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAKsAAABHCAIAAAD3DCC3AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wAAADsABataJCQAABtxJREFUeF7tnGF54zAMhkdhGEahHA5CMYzCGIzBGAzBEIzAERiDcdi99qf6vDRR
+        vQAADr0BR/uQrQAABtxJREFUeF7tnGF54zAMhkdhGEahHA5CMYzCGIzBGAzBEIzAERiDcdi99qf6vDRR
         nDZt0kbvjz226zi29Fly0t49/ATbJhSwdUIBWycUsHVCAVsnFLB1QgFbJxSwdUIBWycUsHVCAVsnFDDO
         9/f36+vr4+Mjf8Fa74VQwDifn5/7/Z7CQ0aNd0MoYAJ/MlapkESkkmtCQHp+fv76+rL6SaxUAQReDPrx
         8WH1YbB+r1ca2e12VmoAWx+b+/39nUGYMFjTFIZU1QjLf3p6+puxpomsVAEkXeIty7P6MGcqoD2qv7y8
