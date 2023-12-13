@@ -1,65 +1,59 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Tyuiu.VlasenkoAS.WindowsForms.App2.V8
 {
-    public static class Form1 : Form
+    public partial class FormMain : Form
     {
-        public Form1()
+        public FormMain()
         {
             InitializeComponent();
         }
 
-        private void textBox1_Enter(object sender, EventArgs e)
+        private void textBoxValueStart_Enter(object sender, EventArgs e)
         {
-            if (textBox1.Text == "0")
+            if (textBoxValueStart.Text == "0")
             {
-                textBox1.Text = "";
-                textBox1.ForeColor = Color.Black;
+                textBoxValueStart.Text = "";
+                textBoxValueStart.ForeColor = Color.Black;
             }
         }
 
-        private void textBox2_Enter(object sender, EventArgs e)
+        private void textBoxValueEnd_Enter(object sender, EventArgs e)
         {
-            if (textBox2.Text == "0")
+            if (textBoxValueEnd.Text == "0")
             {
-                textBox2.Text = "";
-                textBox2.ForeColor = Color.Black;
+                textBoxValueEnd.Text = "";
+                textBoxValueEnd.ForeColor = Color.Black;
             }
         }
 
-        private void textBox1_Leave(object sender, EventArgs e)
+        private void textBoxValueStart_Leave(object sender, EventArgs e)
         {
-            if (textBox1.Text == "")
+            if (textBoxValueStart.Text == "")
             {
-                textBox1.Text = "0";
-                textBox1.ForeColor = Color.LightGray;
+                textBoxValueStart.Text = "0";
+                textBoxValueStart.ForeColor = Color.LightGray;
             }
         }
 
-        private void textBox2_Leave(object sender, EventArgs e)
+        private void textBoxValueEnd_Leave(object sender, EventArgs e)
         {
-            if (textBox2.Text == "")
+            if (textBoxValueEnd.Text == "")
             {
-                textBox2.Text = "0";
-                textBox2.ForeColor = Color.LightGray;
+                textBoxValueEnd.Text = "0";
+                textBoxValueEnd.ForeColor = Color.LightGray;
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonCalculate_Click(object sender, EventArgs e)
         {
             double start, end;
             int y = 0;
 
-            string inputFirst = textBox1.Text;
-            string inputSecond = textBox2.Text;
+            string inputFirst = textBoxValueStart.Text;
+            string inputSecond = textBoxValueEnd.Text;
 
             // Проверяем, что оба значения являются натуральными числами
             if (double.TryParse(inputFirst, out start) && double.TryParse(inputSecond, out end) && start % 1 == 0 && end % 1 == 0)
@@ -67,13 +61,13 @@ namespace Tyuiu.VlasenkoAS.WindowsForms.App2.V8
                 if (start < end)
                 {
                     // Cтроим график в Chart
-                    chart1.Series[0].Points.Clear();
+                    chartVisualizeExpression .Series[0].Points.Clear();
 
                     for (int i = (int)start; i <= (int)end; i++)
                     {
                         y = (int)(i / (Math.Cos(i) - i / 3) + (Math.Sin(Math.Pow(i, 2)) + Math.Cos(i)) / (Math.Cos(i) - Math.Sin(i)) * Math.Tan(i));
 
-                        chart1.Series[0].Points.AddXY(i, y);
+                        chartVisualizeExpression .Series[0].Points.AddXY(i, y);
                     }
                 }
                 else

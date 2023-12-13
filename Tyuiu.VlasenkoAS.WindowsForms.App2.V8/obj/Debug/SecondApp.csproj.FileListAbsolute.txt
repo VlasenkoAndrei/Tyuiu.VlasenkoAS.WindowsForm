@@ -18,3 +18,14 @@ C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForm
 C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.Properties.Resources.resources
 C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.exe
 C:\Users\R2-D2\Desktop\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.pdb
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\bin\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.exe.config
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\bin\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.exe
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\bin\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.pdb
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\SecondApp.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\SecondApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.FormMain.resources
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.Properties.Resources.resources
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\SecondApp.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.exe
+C:\Users\andre\source\repos\VlasenkoAndrei\Tyuiu.VlasenkoAS.WindowsForm\Tyuiu.VlasenkoAS.WindowsForms.App2.V8\obj\Debug\Tyuiu.VlasenkoAS.WindowsForms.App2.V8.pdb
